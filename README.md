@@ -1,4 +1,4 @@
-# foss-advfrptool
+# fossfrptool
 
 This projects aims to be a free and open soruce FRP removal tool for ANY android device. It will have a cross 
 platform GUI (Linux, Windows, OSX), made using wxPython. The app will have a modular, plugin based approach to support 
